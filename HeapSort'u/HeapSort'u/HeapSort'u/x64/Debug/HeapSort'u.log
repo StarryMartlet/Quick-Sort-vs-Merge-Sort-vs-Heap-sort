@@ -1,0 +1,21 @@
+﻿  HeapSort'u.cpp
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(7,12): error C2039: "print": не является членом "std".
+D:\Visual studio 2022\VC\Tools\MSVC\14.31.31103\include\iomanip(23): message : см. объявление "std"
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(7,1): error C2873: print: использование символа в "using"-объявлении не допускается
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(51,9): error C3861: print: идентификатор не найден
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(52,9): error C2672: "exchange": не найдена соответствующая перегруженная функция
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(52,32): error C2780: _Ty std::exchange(_Ty &,_Other &&) noexcept(<expr>): требует аргументов: 2, имеется: 3
+D:\Visual studio 2022\VC\Tools\MSVC\14.31.31103\include\utility(604): message : см. объявление "std::exchange"
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(58,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(59,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(64,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(67,5): error C3861: print: идентификатор не найден
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(68,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(69,9): error C2672: "exchange": не найдена соответствующая перегруженная функция
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(69,25): error C2780: _Ty std::exchange(_Ty &,_Other &&) noexcept(<expr>): требует аргументов: 2, имеется: 3
+D:\Visual studio 2022\VC\Tools\MSVC\14.31.31103\include\utility(604): message : см. объявление "std::exchange"
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(78,5): error C2672: "fill": не найдена соответствующая перегруженная функция
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(78,14): error C2780: void std::fill(const _FwdIt,const _FwdIt,const _Ty &): требует аргументов: 3, имеется: 2
+D:\Visual studio 2022\VC\Tools\MSVC\14.31.31103\include\xutility(4404): message : см. объявление "std::fill"
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(79,5): error C3861: print: идентификатор не найден
+C:\Users\Karina\Desktop\last sorter\HeapSort'u\HeapSort'u\HeapSort'u\HeapSort'u.cpp(81,5): error C3861: print: идентификатор не найден

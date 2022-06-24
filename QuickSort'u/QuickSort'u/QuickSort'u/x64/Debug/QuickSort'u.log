@@ -1,0 +1,3 @@
+﻿  QuickSort'u.cpp
+C:\Users\Karina\Desktop\last sorter\QuickSort'u\QuickSort'u\QuickSort'u\QuickSort'u.cpp(90,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  QuickSort'u.vcxproj -> C:\Users\Karina\Desktop\last sorter\QuickSort'u\QuickSort'u\x64\Debug\QuickSort'u.exe
